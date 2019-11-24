@@ -1,0 +1,10 @@
+Open			LITERAL1
+Closed			LITERAL1
+Pressed			LITERAL1
+Held			LITERAL1
+Released		LITERAL1
+Clicked			LITERAL1
+DoubleClicked 	LITERAL1
+Buttons			KEYWORD1
+getButton		KEYWORD2
+service			KEYWORD2
